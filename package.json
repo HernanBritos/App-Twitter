@@ -1,0 +1,26 @@
+{
+  "name": "tw-app",
+  "version": "1.0.0",
+  "description": "App Tw",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HernanBritos/App-Twitter.git"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "Hernan Britos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HernanBritos/App-Twitter/issues"
+  },
+  "homepage": "https://github.com/HernanBritos/App-Twitter#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "twit": "^2.2.11"
+  }
+}
